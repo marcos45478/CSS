@@ -1,0 +1,21 @@
+body{
+    color: rgb(3, 1, 1);
+    background-image: url("pngtree-website-technology-line-dark-background-picture-image_2443641.jpg");
+    background-repeat: no-repeat;
+    background-size: 1024px;
+}
+div {
+    height: 400px;
+    width: 500px;
+}
+.div1 {
+    background-color: powderblue;
+    width: 1000px;
+}
+.div2{
+    background-color: red;
+    width: 500px;
+}
+.imgtopo{
+    width: 45%;
+}
