@@ -1,0 +1,32 @@
+body{
+    color: #a54328;
+    background-image: url("fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 1440px;
+    padding-left: 20%;
+}
+span{
+    width: 100%;
+}
+.div0 {
+    height: 80%;
+    width: 80%;
+    position:center;
+    padding-top: 0px;
+    margin-top: 0px;
+    display: flex;
+}
+.div1 {
+    text-align: justify;
+    width: 35%;
+    height: 50%;
+}
+.div2{
+    padding-left: 25%;
+    margin-top: 15px;
+    width: 45%;
+    height: 50%;
+}
+.imgtopo{
+    width: 40%;
+}
